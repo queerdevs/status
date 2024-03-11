@@ -21,5 +21,9 @@ status-website:
     - title: Source Code
       href: https://github.com/$OWNER/$REPO
 
+commitMessages:
+  commitAuthorName: "Elara Bot"
+  commitAuthorEmail: "support@elara.ws"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
