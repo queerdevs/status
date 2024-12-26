@@ -4,7 +4,7 @@
     "url": "https://queerdevs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/queerdevs.org.ico",
     "slug": "queerdevs-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 575,
     "timeYear": 792,
     "dailyMinutesDown": {
+      "2024-12-26": 0,
       "2024-11-04": 33,
       "2024-10-08": 18,
       "2024-10-06": 19,
