@@ -4,12 +4,12 @@
     "url": "https://queerdevs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/queerdevs.org.ico",
     "slug": "queerdevs-org",
-    "status": "up",
-    "uptime": "92.60%",
-    "uptimeDay": "87.72%",
-    "uptimeWeek": "98.25%",
+    "status": "down",
+    "uptime": "92.61%",
+    "uptimeDay": "87.71%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "95.63%",
-    "uptimeYear": "90.48%",
+    "uptimeYear": "90.50%",
     "time": 961,
     "timeDay": 1568,
     "timeWeek": 1232,
@@ -85,8 +85,7 @@
       "2024-09-15": 24,
       "2024-09-01": 181,
       "2024-08-30": 24,
-      "2024-08-12": 15,
-      "2024-07-06": 99
+      "2024-08-12": 15
     }
   }
 ]
