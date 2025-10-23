@@ -4,12 +4,12 @@
     "url": "https://queerdevs.org/",
     "icon": "https://icons.duckduckgo.com/ip3/queerdevs.org.ico",
     "slug": "queerdevs-org",
-    "status": "up",
-    "uptime": "99.45%",
+    "status": "down",
+    "uptime": "99.46%",
     "uptimeDay": "98.09%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 1046,
     "timeDay": 2973,
     "timeWeek": 1725,
@@ -46,7 +46,7 @@
       "2025-07-02": 147,
       "2025-07-01": 442,
       "2025-06-30": 236,
-      "2025-06-29": 63
+      "2025-06-29": 16
     }
   }
 ]
