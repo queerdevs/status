@@ -6,14 +6,14 @@
     "slug": "queerdevs-org",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "97.77%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.12%",
     "time": 1032,
-    "timeDay": 924,
-    "timeWeek": 1426,
-    "timeMonth": 1281,
+    "timeDay": 930,
+    "timeWeek": 1402,
+    "timeMonth": 1273,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-10-28": 17,
@@ -48,7 +48,7 @@
       "2025-07-03": 118,
       "2025-07-02": 147,
       "2025-07-01": 442,
-      "2025-06-30": 92
+      "2025-06-30": 74
     }
   }
 ]
